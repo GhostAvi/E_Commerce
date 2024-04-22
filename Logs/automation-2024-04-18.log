@@ -1,0 +1,48 @@
+16:58:01.700 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:58:01.735 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:58:01.762 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:58:01.764 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:58:01.765 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:58:01.778 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:58:01.829 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+16:58:06.991 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+16:58:06.997 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+16:58:19.876 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+16:58:19.883 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+16:58:33.020 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+16:58:33.025 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+16:58:45.893 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+16:58:45.897 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+16:58:50.304 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+12:07:16.441 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+12:09:43.347 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+12:11:29.607 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+12:13:18.026 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+12:14:46.485 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+12:14:53.406 [main] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+12:11:48.865 [main] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+12:11:53.339 [main] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_004_SearchProductTest 
+12:15:43.055 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+12:15:43.066 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started......
+12:15:43.113 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+12:15:43.294 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+12:15:44.154 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+12:15:48.290 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+12:15:48.365 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs end.......
+12:15:48.365 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+12:16:04.538 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+12:16:04.538 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+12:16:04.755 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+12:16:05.809 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+12:16:05.848 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+12:16:08.152 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+12:16:08.261 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+12:16:24.742 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+12:16:26.676 [main] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+12:16:44.821 [main] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+12:16:48.327 [main] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_004_SearchProductTest 
+12:39:39.497 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+12:39:39.517 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+12:40:03.168 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+12:40:26.926 [main] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+12:42:03.040 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
