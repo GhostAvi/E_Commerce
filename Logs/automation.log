@@ -1,3 +1,30 @@
-12:42:03.053 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started......
-12:42:03.125 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
-12:42:13.165 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed..
+13:30:51.894 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2122419\eclipse-workspace\ECommerce\testng.xml"
+13:30:52.596 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2122419\eclipse-workspace\ECommerce\testng.xml
+
+13:31:05.366 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+13:31:05.366 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started......
+13:31:05.413 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+13:31:05.570 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+13:31:06.600 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+13:31:10.163 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+13:31:10.243 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs end.......
+13:31:10.243 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+13:31:23.376 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+13:31:23.376 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+13:31:23.528 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+13:31:24.444 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+13:31:24.448 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+13:31:26.887 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+13:31:26.938 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+13:31:40.507 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+13:31:42.595 [main] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+13:31:57.185 [main] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+13:32:02.445 [main] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_004_SearchProductTest 
+13:34:26.497 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2122419\eclipse-workspace\ECommerce\testng.xml"
+13:34:27.212 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2122419\eclipse-workspace\ECommerce\testng.xml
+
+13:34:41.253 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+13:34:43.371 [main] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+13:34:56.088 [main] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
